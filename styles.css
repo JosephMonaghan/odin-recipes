@@ -1,0 +1,18 @@
+* {
+    color: blue;
+    background-color: beige;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    color: black;
+    background-color: white;
+    margin-top: 0px;
+    text-align: center;
+    font-family: cursive;
+}
+
+img {
+    width: 40%;
+    border: black;
+}
