@@ -1,5 +1,4 @@
 * {
-    color: blue;
     font-family: 'Times New Roman', Times, serif;
 }
 
@@ -14,10 +13,14 @@ h1 {
 }
 
 .header{
-    background-color: white;
-    width: 100%;
-    padding: 10px;
-    margin: 0px;
+    background-color: rgb(174, 204, 204);
+    padding: 5px;
+    margin: -10px;
+}
+
+.para_text{
+    font-size: 24px;
+    color: rgb(66, 59, 59);
 }
 
 img {
