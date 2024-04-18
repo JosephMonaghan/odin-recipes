@@ -1,12 +1,17 @@
 * {
     font-family: 'Times New Roman', Times, serif;
+    margin: 0px;
+    padding: 0px;
 }
 
+html, body {
+    padding: 0px;
+}
 
 ul {
     list-style-type: none;
-    padding:0;
-    margin: 0;
+    padding:0px;
+    margin: 0px;
   }
 
 body{
@@ -19,33 +24,37 @@ h1 {
     font-family: cursive;
 }
 
-.list_items{
+.List_items{
     width:100%;
-    margin: -10px;
-
+    margin: 0px;
+    padding:3px;
+    background-color: black;
 }
 
 .header{
     background-color: rgb(174, 204, 204);
-    padding: 5px;
-    margin: -10px;
+    padding:5px;
+    margin: 0px;
 }
 
 .para_text{
     font-size: 24px;
     color: rgb(66, 59, 59);
+    text-align: center;
+    height: 40px;
+    padding-top: 10px;
 }
 
 .item{
     display: inline-block;
-    width: 30%;
+    width: 33%;
     height: 40px;
-    padding: 10px;
     text-align: center;
-    border: 20px;
+    border: 0px;
     border-color: gray;
     font-size: 20px;
     color: black;
+    margin:0px;
 }
 
 .ice_cream{
